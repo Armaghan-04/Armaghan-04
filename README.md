@@ -56,15 +56,6 @@ A robust, dual-purpose ecosystem serving as a comprehensive freelance marketplac
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armaghan-04&show_icons=true&theme=dark&hide_border=true&bg_color=121214&title_color=6D28D9&icon_color=06B6D4&text_color=E2E8F0" alt="Armaghan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armaghan-04&layout=compact&theme=dark&hide_border=true&bg_color=121214&title_color=6D28D9&text_color=E2E8F0" alt="Top Languages" width="48%" />
-</p>
-
----
-
 <p align="center">
   <i>⚡ Fun Fact: When I'm not resolving asynchronous race conditions or tweaking Tailwind classes, I'm analyzing software QA metrics to make code bases inherently bulletproof.</i>
 </p>
