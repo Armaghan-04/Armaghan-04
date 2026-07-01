@@ -1,9 +1,14 @@
 <h1 align="center">Hi, I'm Armaghan 👋</h1>
-
-<p align="center">
+<p>
   Aspiring Full-Stack Developer · Final Semester IT Student<br/>
   Building with <b>.NET Web API</b> & <b>React</b> — currently shipping my FYP, <b>SkillHire</b>
 </p>
+
+- 🎓 Final-semester IT student, wrapping up my degree while shipping real, production-style projects
+- 🚀 Currently building **SkillHire**, a hybrid freelance marketplace — architecting the backend (.NET 8, Clean Architecture, role-based access) and frontend (React, TypeScript, Redux Toolkit) end-to-end
+- 🧱 I care about writing maintainable, well-structured code — not just code that works
+- 🌱 Exploring how solid architecture and good product sense come together to build things people actually want to use
+- 🎯 Aiming to grow into a full-stack engineer who can own products end-to-end, and move into more technical leadership
 
 <p align="center">
   <a href="https://armaghan-zeb.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=flat-square&logo=netlify&logoColor=white" /></a>
@@ -17,7 +22,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 </p>
 
 ---
@@ -25,8 +29,6 @@
 ### 🔨 Featured — [SkillHire](https://github.com/Armaghan-04/skillHire) (FYP)
 Hybrid freelance marketplace — .NET 8 Web API (Clean Architecture, EF Core, role-based access) + React/TypeScript/Redux frontend. Private during FYP evaluation, public after defense.
 
-**Other work:** [Portfolio](https://github.com/Armaghan-04/portfolio) — Astro + React + TypeScript → [Live demo](https://armaghan-zeb.netlify.app)
-
 ---
 
-<p align="center"><i>Open to internships and entry-level full-stack roles 🚀</i></p>
+<p align="center"><i>Open to internships and entry-level backend roles 🚀</i></p>
