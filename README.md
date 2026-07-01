@@ -29,9 +29,4 @@ Hybrid freelance marketplace — .NET 8 Web API (Clean Architecture, EF Core, ro
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armaghan-04&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armaghan-04&theme=radical&hide_border=true" height="150" />
-</p>
-
 <p align="center"><i>Open to internships and entry-level full-stack roles 🚀</i></p>
