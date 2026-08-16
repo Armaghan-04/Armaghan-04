@@ -14,9 +14,9 @@
 
 ### 💫 About Me
 
-I am a final-semester Information Technology student deeply passionate about backend engineering, modern frontend frameworks, and clean software architecture. I don't just write code that works—I design scalable, maintainable, and secure systems using industry-standard design patterns. 
+I am an BSc. Information Technology graduate deeply passionate about backend engineering, modern frontend frameworks, and clean software architecture. I don't just write code that works—I design scalable, maintainable, and secure systems using industry-standard design patterns. 
 
-*   🎓 **Education:** Wrapping up my BS-IT degree while consistently building production-grade software.
+*   🎓 **Education:** BSc. Information Technology.
 *   🚀 **Current Focus:** Shipping my Final Year Project (FYP), **SkillHire**, while diving deeper into advanced `.NET 10` concepts and ecosystem updates.
 *   🧱 **Philosophy:** Strong advocate for separation of concerns, and strict type safety to ensure reliability and maintainability.
 *   🎯 **Career Goal:** Aiming to excel as a Full-Stack Engineer, own features end-to-end, and eventually transition into technical leadership roles.
@@ -27,9 +27,9 @@ I am a final-semester Information Technology student deeply passionate about bac
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Backend** | .NET Core (ASP.NET Core), Entity Framework Core, LINQ, Web API |
+| **Backend** | .NET Core (ASP.NET Core), MVC, Entity Framework Core, LINQ, Web API |
 | **Frontend** | ReactJS, TypeScript, Redux Toolkit, Tailwind CSS, JavaScript (ES6+) |
-| **Architecture & Design** | Clean Architecture, Vertical Slice Architecture, RESTful APIs, Role-Based Access Control (RBAC) |
+| **Architecture & Design** | Clean Architecture, RESTful APIs, Role-Based Access Control (RBAC) |
 | **Security & Database** | JWT Authentication, Refresh Token Rotation, Session Management, MS SQL Server |
 | **Dev Tools & Workflow** | Git, GitHub, VS Code, Visual Studio, Postman |
 
