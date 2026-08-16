@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Armaghan 👋</h1>
 <p align="center">
-  <b>Aspiring Full-Stack Developer · Final Semester IT Student</b><br/>
+  <b>Full-Stack Developer · BSc. IT Graduate</b><br/>
   Building high-performance web applications with .NET Web API & React.
 </p>
 
